@@ -5,6 +5,6 @@ function moveRight(){
     marginleft = marginleft + 5;
     img.style.marginLeft=marginLeft + 'px';
 }
-img.oneclick = function(){
+img.onclick = function(){
     img.style.marginLeft = '1000px';
 };
