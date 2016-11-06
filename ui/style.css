@@ -21,7 +21,7 @@ body {
 }
 
 .options{
-    text-align:inherit;
+    left:45px;
     color: white;
     background-color:rgb(23,0,66);
 }
