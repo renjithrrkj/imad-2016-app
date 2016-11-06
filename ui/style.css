@@ -21,7 +21,7 @@ body {
 }
 
 .options{
-    left:45px;
+    left:-45px;
     color: white;
     background-color:rgb(23,0,66);
 }
