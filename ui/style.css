@@ -21,6 +21,7 @@ body {
 }
 
 .options{
+    width:100px;
     max-width:25%;
     color: white;
     background-color:rgb(23,0,66);
